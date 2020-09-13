@@ -20,10 +20,12 @@ h1 {
     font-size: 48px;
 }
 
+/*set as an id*/
 #seo {
     color: #d9dcd6;
 }
 
+/*changed the div description to a nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +34,12 @@ h1 {
     font-size: 18px;
 }
 
+/*changed the div description to a nav*/
 .header nav ul {
     list-style-type: none;
 }
 
+/*changed the div description to a nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -202,4 +206,5 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+/*removed footer h3*/
 
